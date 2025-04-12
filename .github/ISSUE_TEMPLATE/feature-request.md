@@ -2,7 +2,7 @@
 name: Feature request
 about: Suggest a new feature, functionality or improvement
 title: "[Feature]"
-labels: enhancement, P4
+labels: enhancement
 assignees: ''
 
 ---
@@ -11,6 +11,12 @@ assignees: ''
 Provide a brief overview of the issue, highlighting the main problems or areas for improvement.
 - [ ] List key problems or challenges related to the current situation.
 - [ ] Include as many bullet points as necessary to detail specific pain points.
+
+---
+
+### Project*
+Specify which project is relevant to your suggestion
+- [ ] Provide the link to the relevant project or N/A
 
 ---
 

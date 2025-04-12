@@ -2,7 +2,7 @@
 name: Bug report
 about: Something is not working, not working as intended, or else
 title: "[Bug]"
-labels: bug, P3
+labels: bug
 assignees: DeadlyFirex
 
 ---
